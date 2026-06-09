@@ -1,12 +1,8 @@
 {
-  "version": 1,
   "claVersion": "OSMC-PL 1.8",
   "signatures": [
     {
       "login": "sjoelund",
-      "name": "Martin Sjölund",
-      "email": "martin.sjolund@liu.se",
-      "signedAt": "2026-06-08T13:49:00Z",
       "claVersion": "OSMC-PL 1.8"
     }
   ]
